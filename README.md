@@ -1,0 +1,1 @@
+# iki-sayi-yazip-4-islemden-birini-secme
